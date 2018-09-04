@@ -1,0 +1,40 @@
+main {
+    background: #FFF5EE; 
+  }    
+  
+  h1 {
+        font-size: 60px;
+        font-family: Indie Flower;
+        text-align: center;
+        color: #FF0000;
+      }
+      
+      h2{
+        font-size: 35px;
+        font-family: "Times New Roman";
+        
+      }
+      
+      p{
+        font-size: 20px;
+        font-family: "Permanent Marker";
+        
+      }
+      
+      .smaller-image {
+        width: 200px;
+        height: 300px;
+        position: float;
+      }
+  
+  .color1 {
+    color: #151B54;
+  }
+  
+  .color2 {
+    color: #FFFF00;
+  }
+  
+  .color3 {
+    color: #808080;
+  }
